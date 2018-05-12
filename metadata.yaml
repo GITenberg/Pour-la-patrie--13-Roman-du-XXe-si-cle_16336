@@ -1,0 +1,28 @@
+_repo: Pour-la-patrie--13-Roman-du-XXe-si-cle_16336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tardivel, Jules-Paul
+    birthdate: 1851
+    deathdate: 1905
+    gutenberg_agent_id: '6635'
+    url: http://www.gutenberg.org/2009/agents/6635
+    wikipedia: http://en.wikipedia.org/wiki/Jules-Paul_Tardivel
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16336'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Québec (Province) -- History -- Autonomy and independence movements -- Fiction'
+title: "Pour la patrie\r\nRoman du XXe siècle"
+url: http://www.gutenberg.org/ebooks/16336
